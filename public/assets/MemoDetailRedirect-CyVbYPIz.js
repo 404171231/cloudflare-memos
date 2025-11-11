@@ -1,0 +1,1 @@
+import{j as r}from"./radix-vendor-C59FrWl4.js";import{a as o,N as e}from"./router-vendor-CwTeFqe9.js";import"./leaflet-vendor-lQi0KVke.js";import"./mermaid-vendor-Bc-icxuX.js";const s=()=>{const{uid:s}=o();return r.jsx(e,{to:`/memos/${s}`,replace:!0})};export{s as default};

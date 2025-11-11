@@ -1,0 +1,1 @@
+import{a3 as e,P as o}from"./mermaid-vendor-Bc-icxuX.js";var a=e((e,a)=>{let t;"sandbox"===a&&(t=o("#i"+e));return o("sandbox"===a?t.nodes()[0].contentDocument.body:"body").select(`[id="${e}"]`)},"getDiagramElement");export{a as g};
